@@ -1,0 +1,14 @@
+<?php
+	$name='hello';
+	//将hello赋值给变量name
+	$is='world';
+	//将is赋值给变量is
+?>
+<html>
+<body>
+	<h1>
+		<?php echo$name;?>
+	<h1>
+	<h2>
+		<?php echo$is;?>
+	<h2>
