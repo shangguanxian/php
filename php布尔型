@@ -1,0 +1,13 @@
+<?php
+$a=false;
+$b=true;
+if($a==true)
+	echo'变量a为真';
+else
+	echo'变量a为假';
+if($b==false)
+	echo'变量b为真';
+else
+	echo'变量b为假';
+//false(真）；true（假）
+//if(如果) ；else（否则）
