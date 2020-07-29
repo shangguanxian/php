@@ -1,0 +1,10 @@
+<?php
+$pi1 = pi();
+$pi2 = 3.1415926;
+$pi3 = 3.1415926E-4;
+echo 'H'.$pi1;
+echo '<br>';
+echo $pi2;
+echo '<br>';
+echo $pi3;
+echo '<br>';
